@@ -1,0 +1,3 @@
+Nome;CPF;Data Nasc;Sexo;Email;Telefone;Celular;Celular Whats;Logradouro;Número;Complemento;Bairro;Cidade;Estado;Profissão;Empresa;Salário;Emprego Atual;Habilidades;Sal MAX;Sal MIN
+Normandia Norues;098.890.123-00;1990-01-20;FEMININO;normandia@norues.com;1155554000;11900001000;true;Rua: Noruega;231A;Sala 11, 1º andar;Jardineiro;São Paulo;SP;Pesacador;Pesca em Alto Mar;2500.0;false;[Pescar em Alto Mar, Liderar tripulação, Operação de Máquinas];4000.0;2500.0
+Javanildo dos EUA;998.899.123-99;1980-05-17;MASCULINO;javanildo@java.com;1159991234;11901010001;true;Rua: Antiga Oak;10;;Santo Java;Javalandia;JV;Desenvolvedor;Sun noSystem;3500.0;false;[Sempre Calmo, Gosto de Café, Paciencia com o User];8000.0;3500.0
